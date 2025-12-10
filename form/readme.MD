@@ -60,7 +60,7 @@ If any field is invalid, a dialog box appears showing which field is missing.
 1. **Registration Form UI**  
 2. **Details Screen** (after successful submission)
 
-[Screenshot](ss/Screenshot 2025-12-10 135132.png)
+![Screenshot]("ss/Screenshot 2025-12-10 135132.png")
 
 ## 🤝 Contribution
 
